@@ -18,3 +18,11 @@
 ```
 
 5. Treesitter
+  - Makes for a more humane syntax highlighting... allegedly 
+
+6. Undotree
+  - this is interesting as it shows you your undo history
+
+```bash
+<space> u
+```
