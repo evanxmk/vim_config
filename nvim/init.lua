@@ -1,3 +1,2 @@
-require("mk.remap")
-require("mk.set")
-print("Start coding")
+-- bootstrap lazy.nvim, LazyVim and your plugins
+require("config.lazy")
